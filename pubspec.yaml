@@ -15,7 +15,7 @@ dependencies:
   flutter_quill:
     git:
       url: https://github.com/Artem2908/flutter-quill
-      ref: fix/double-tap
+      ref: update/dependencies
 
 dev_dependencies:
   build_runner: ^2.4.7
