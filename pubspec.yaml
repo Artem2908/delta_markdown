@@ -15,7 +15,7 @@ dependencies:
   flutter_quill:
     git:
       url: https://github.com/Artem2908/flutter-quill
-      ref: update/dependencies
+      ref: update/dependencies-2025
 
 dev_dependencies:
   build_runner: ^2.4.7
